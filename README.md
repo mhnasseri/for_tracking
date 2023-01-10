@@ -12,7 +12,7 @@ Moreover, in most algorithms, camera motion is considered negligible, which is a
 The proposed algorithm is evaluated on MOT17 and MOT20 datasets and it achieves state-of-the-art performance on MOT17 and comparable results on MOT20. Also for evaluating the performance of the camera motion removal block, the SportsMOT dataset is used which has dynamic camera motion.
 
 <p>
-<img align="center" width="100%" src="https://github.com/mhnasseri/for_tracking/blob/main/pics/Block_Diagram_NS.jpg">
+<img align="center" width="80%" src="https://github.com/mhnasseri/for_tracking/blob/main/pics/Block_Diagram_NS.jpg">
 </p>
 
 ## Dependencies
